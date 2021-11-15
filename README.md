@@ -33,8 +33,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bahaa-nimer-3b7a76130/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bahaa-nimer-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/bahaa-nimer-3b7a76130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bahaa%20Nimer%20-blue?style=flat-square&logo=linkedin"></a> 
-  
+<a href="https://www.linkedin.com/in/bahaa-nimer-3b7a76130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bahaa%20Nimer%20-blue?style=flat-square&logo=linkedin"></a>   
 <a href="bahaanimer97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-bahaanimer97-blue?style=flat-square&logo=gmail"></a>
 </p>
