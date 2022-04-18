@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Civil Engineering at Al- Balqa' Applied University (BAU).
+- 🎓 &nbsp; Studied Civil Engineering at Al- Balqa' Applied University (BAU).
 - 🌱 &nbsp; Learning more about Web Development, Web Interface Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing cyber security and athletic hacking as hobbies/side hustles.
 
