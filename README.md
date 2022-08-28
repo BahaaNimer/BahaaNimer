@@ -8,9 +8,9 @@
 - 🎓 &nbsp; Studied Full Stack Development at LTUC-Abdul Aziz Al Ghurair School of Advanced Computing (ASAC).
 - 🌱 &nbsp; Learning more about Web Development, Web Interface Design, Web Deployment and Web Testing.
 - ✍️ &nbsp; Pursuing cyber security and athletic hacking as hobbies/side hustles.
-
-![img](https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="300"/>
+</div>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
