@@ -3,6 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+![img](https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif)
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Civil Engineering at Al- Balqa' Applied University (BAU).
 - 🎓 &nbsp; Studied Full Stack Development at LTUC-Abdul Aziz Al Ghurair School of Advanced Computing (ASAC).
@@ -27,6 +29,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+![img2](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
