@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="600" height="400"/>
 </div>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BahaaNimer&theme=git-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BahaaNimer&theme=icegray)](https://git.io/streak-stats)
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
