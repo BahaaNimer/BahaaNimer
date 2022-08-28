@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-![img](https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif)
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Civil Engineering at Al- Balqa' Applied University (BAU).
 - 🎓 &nbsp; Studied Full Stack Development at LTUC-Abdul Aziz Al Ghurair School of Advanced Computing (ASAC).
 - 🌱 &nbsp; Learning more about Web Development, Web Interface Design, Web Deployment and Web Testing.
 - ✍️ &nbsp; Pursuing cyber security and athletic hacking as hobbies/side hustles.
+
+![img](https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,7 +28,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
 ![img2](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
