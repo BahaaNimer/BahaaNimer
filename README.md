@@ -5,7 +5,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Civil Engineering at Al- Balqa' Applied University (BAU).
-- 🌱 &nbsp; Learning more about Web Development, Web Interface Design and Artificial Intelligence.
+- 🎓 &nbsp; Studied Full Stack Development at LTUC-Abdul Aziz Al Ghurair School of Advanced Computing (ASAC).
+- 🌱 &nbsp; Learning more about Web Development, Web Interface Design, Web Deployment and Web Testing.
 - ✍️ &nbsp; Pursuing cyber security and athletic hacking as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
