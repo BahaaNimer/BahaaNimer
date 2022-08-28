@@ -30,9 +30,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 <div align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="600" height="400"/>
 </div>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bahaa-nimer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bahaa%20Nimer%20-blue?style=flat-square&logo=linkedin"></a>   
