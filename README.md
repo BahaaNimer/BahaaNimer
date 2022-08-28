@@ -29,9 +29,6 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-<div align="left">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="600" height="400"/>
-</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BahaaNimer&theme=icegray)](https://git.io/streak-stats)
 
