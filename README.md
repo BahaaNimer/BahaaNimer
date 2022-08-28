@@ -10,9 +10,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,6 +30,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bahaa-nimer-3b7a76130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bahaa%20Nimer%20-blue?style=flat-square&logo=linkedin"></a>   
+<a href="https://www.linkedin.com/in/bahaa-nimer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bahaa%20Nimer%20-blue?style=flat-square&logo=linkedin"></a>   
 <a href="bahaanimer97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-bahaanimer97@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
