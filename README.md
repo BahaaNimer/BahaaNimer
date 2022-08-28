@@ -29,8 +29,9 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-![img2](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="600" height="300"/>
+</div>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
