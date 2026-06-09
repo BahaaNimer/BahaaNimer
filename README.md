@@ -1,28 +1,45 @@
 <h2> Hey there! I'm Bahaa 👋</h2>
 
+<h3> Senior Software Engineer | Full Stack (Frontend • Backend • Mobile • Cloud • AI) </h3>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Senior Software Engineer with strong Full Stack experience, focusing on **Python (FastAPI)** and **JavaScript (React, Next.js, Node.js)**.
-- 🚀 &nbsp; Experienced in designing **scalable backend systems**, microservices, and maintainable architectures.
-- 🤖 &nbsp; Actively working with **LLMs, LangChain, LangGraph, CrewAI**, and exploring **Agentic AI systems**.
-- 🧠 &nbsp; Passionate about system design, clean architecture, and building reliable, user-focused products.
+- 💼 &nbsp; Senior Software Engineer with experience building full-stack systems across **Frontend, Backend, Mobile, Cloud, and AI domains**.
+- 🌐 &nbsp; Frontend development using **React, Next.js, Vue.js, React Native**, focusing on performance, scalability, and clean UI architecture.
+- ⚙️ &nbsp; Backend engineering with **Python (FastAPI), Node.js, Ruby on Rails**, designing APIs, microservices, and distributed systems.
+- 📱 &nbsp; Mobile development using **React Native**, building cross-platform applications with reusable and maintainable architecture.
+- ☁️ &nbsp; Cloud & DevOps experience with **AWS, Kubernetes (EKS), Docker, Terraform**, and CI/CD pipelines for production systems.
+- 🤖 &nbsp; Working with **LLMs, LangChain, LangGraph, CrewAI**, and exploring Agentic AI systems and intelligent automation workflows.
+- 🧠 &nbsp; Strong focus on system design, clean architecture, scalability, and production reliability.
 - 🎓 &nbsp; BSc in Civil Engineering — Al-Balqa’a Applied University.
 - 🎓 &nbsp; Software Development Graduate — ASAC / Code Fellows.
-- 🏅 &nbsp; **AWS Certified Solutions Architect – Associate**, Graph Developer – Associate, AI Master Class certified.
-- 🌱 &nbsp; Always learning: cloud architecture, Kubernetes, AI-driven backend solutions.
-- 🤝 &nbsp; Enjoy mentoring engineers and contributing to team growth and technical excellence.
+- 🏅 &nbsp; AWS Certified Solutions Architect – Associate, Graph Developer – Associate, AI Master Class certified.
+- 🤝 &nbsp; Mentoring engineers and contributing to technical leadership and engineering best practices.
+
+---
+
+<h3> 🧠 &nbsp;What I Care About </h3>
+
+- Building reliable, scalable, and maintainable systems
+- Writing clean architecture with simple and effective design
+- Designing systems that are observable and failure-resilient
+- Building secure and cost-aware cloud infrastructure
+- Developing practical AI systems that solve real-world problems
+
+---
+
+<h3> 🚀 &nbsp;Engineering Focus </h3>
+
+- Designing scalable and production-grade system architectures
+- Leading technical decisions across full-stack systems
+- Improving performance, reliability, and maintainability
+- Integrating AI capabilities into real-world applications
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="300"/>
 </div>
-
-<h3> 🧠 &nbsp;What I Care About</h3>
-
-- Designing scalable, resilient backend systems
-- Clean architecture, domain-driven design, and maintainable codebases
-- Observability, reliability, and failure handling in distributed systems
-- Secure cloud infrastructure with cost-aware design
-- Building practical, safe, and production-ready AI systems
 
 ---
 
@@ -31,7 +48,7 @@
 <h4>🌐 Frontend (Web)</h4>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
@@ -40,9 +57,9 @@
 ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat)
 ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
-![MUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 
@@ -152,30 +169,13 @@
 
 ---
 
-<h3> 🤝 &nbsp;Leadership & Mentorship</h3>
+<h3> 🏗️ &nbsp;What I Build</h3>
 
-- Mentored junior and mid-level engineers through code reviews, pair programming, and architecture discussions
-- Helped onboard new team members and improve team development workflows
-- Provided technical guidance and led discussions around system design and best practices
-- Contributed to raising code quality and engineering standards across teams
-
----
-
-<h3> 🎓 &nbsp;Certifications & Learning</h3>
-
-- AWS Certified Solutions Architect – Associate
-- Graph Developer – Associate
-- AI Master Class
-- Continuous learning in cloud architecture, Kubernetes, and AI-driven backend systems
-
----
-
-<h3> 🔍 &nbsp;Currently Exploring</h3>
-
-- Agentic AI architectures and tool orchestration (LangChain, LangGraph, CrewAI)
-- Advanced Kubernetes deployment strategies and autoscaling patterns
-- Observability and monitoring for distributed and AI-powered systems
-- Secure and scalable AI integrations in production environments
+- Full-stack web and mobile applications
+- Distributed backend and API systems
+- Cloud-native architectures
+- AI-powered applications and Agentic AI systems
+- Scalable production systems focused on reliability, performance, and maintainability
 
 ---
 
